@@ -9,9 +9,9 @@ import { Button } from "@/components/ui/button";
 const About = () => {
   const teamMembers = [
     {
-      name: "Alex Johnson",
+      name: "Eugene Kipchirchir",
       role: "Lead Developer",
-      image: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80",
+      image: "https://photos.google.com/album/AF1QipOnRWNG9rjmmSO09Ryf7wsECgccIEyNfk3BBCH-/photo/AF1QipOgCat0DXneN8kG1vBhNuzKA7WEjW6ThTgo-3H7",
       bio: "Alex has over 10 years of experience in web development and specializes in React and Node.js."
     },
     {
@@ -30,22 +30,22 @@ const About = () => {
 
   const timeline = [
     {
-      year: "2018",
+      year: "2020",
       title: "Company Founded",
       description: "DigitalArch was established with a mission to create beautiful digital experiences."
     },
     {
-      year: "2019",
+      year: "2022",
       title: "Team Expansion",
       description: "Our team grew to include talented designers and developers from diverse backgrounds."
     },
     {
-      year: "2020",
+      year: "2023",
       title: "New Services",
       description: "Expanded our offerings to include mobile app development and digital marketing."
     },
     {
-      year: "2023",
+      year: "2024",
       title: "Industry Recognition",
       description: "Received multiple awards for our innovative web solutions and client success."
     }
@@ -75,7 +75,7 @@ const About = () => {
               <div>
                 <h2 className="text-3xl font-bold mb-6">Our Story</h2>
                 <p className="text-gray-600 mb-4">
-                  Founded in 2018, DigitalArch began with a simple mission: to create websites that not only look beautiful but also deliver real business results.
+                  Founded in 2020, DigitalArch began with a simple mission: to create websites that not only look beautiful but also deliver real business results.
                 </p>
                 <p className="text-gray-600 mb-4">
                   What started as a small team of passionate developers has grown into a full-service web development agency serving clients across various industries.

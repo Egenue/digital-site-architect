@@ -119,22 +119,6 @@ const Contact = () => {
             </div>
           </div>
         </section>
-
-        {/* Map Section */}
-        <section className="py-16 bg-secondary/30">
-          <div className="container mx-auto px-4">
-            <h2 className="text-3xl font-bold mb-8 text-center">Find Us</h2>
-            <div className="h-[400px] w-full bg-gray-200 rounded-lg overflow-hidden shadow-lg">
-              {/* Replace with actual map or embed a Google Maps iframe */}
-              <div className="w-full h-full flex items-center justify-center bg-gray-300">
-                <p className="text-gray-600">Map Placeholder - In a real project, embed a Google Map here.</p>
-              </div>
-            </div>
-            <p className="text-center text-sm text-gray-500 mt-4">
-              Note: For this demo, we've included a placeholder for the map. In a real project, you would integrate Google Maps or another mapping service.
-            </p>
-          </div>
-        </section>
       </main>
 
       <Footer />
