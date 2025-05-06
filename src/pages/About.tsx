@@ -11,7 +11,7 @@ const About = () => {
     {
       name: "Eugene Kipchirchir",
       role: "Lead Developer",
-      image: "/pages/eugene.jpg",
+      image: "./pages/eugene.jpg",
       bio: "Alex has over 10 years of experience in web development and specializes in React and Node.js."
     },
     {
